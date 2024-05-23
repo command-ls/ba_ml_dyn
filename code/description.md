@@ -1,0 +1,1 @@
+This includes dynamics code dyn_fssh_all.py, machine learning model code model*.py, and interface code tools*.py. Next, in order to run ML dynamics, taking BPNN dynamics as an example, we need parameter file params_bpnn.py and run code run_bpnn_dyn.py.
